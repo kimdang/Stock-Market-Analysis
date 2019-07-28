@@ -42,10 +42,15 @@ A simple risk analysis can be achieved by treating the average value and standar
 ![alt text](https://stockmarketanalysis.s3.amazonaws.com/riskstd.png)
 
 Here are the 1% empirical quantile of each company:  
+
 GOOGL -- 4.58%
+
 AAPL -- 2.84%
+
 AMZN -- 3.94%
+
 MSFT -- 4.06%
+
 These values were calculated from the daily return percentage dataset. Simply put, if you invest in Google, for example, the worst you could lose in one day is 4.58%. 
 
 Finally, the Monte Carlo algorithm was used to predict stock prices in March 2019. You can read more about Monte Carlo algorithm [here](https://www.investopedia.com/terms/m/montecarlosimulation.asp). The following figures are generated from the results of running 500 simulations per company.
@@ -61,6 +66,7 @@ The stock prices in March 2019 are predicted to be:
 | $1,504  |$1,008  |$89   |$168   |
 
 Here are the actual stock prices in March 2019: 
+
 *Source: Yahoo Finance*
 
 | AMZN    | GOOGL  |MSFT  |AAPL   |
