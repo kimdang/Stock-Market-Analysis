@@ -1,7 +1,5 @@
-___
 # Stock Market Analysis
 by Kim Dang 
-___
 
 This analysis will focus on the stock of four major tech companies: Amazon, Microsoft, Apple and Google from 2017 to 2018. Here are their stock performance throughout this period:
 ![alt text](https://stockmarketanalysis.s3.amazonaws.com/stock_Amazon.png)
@@ -58,13 +56,13 @@ Finally, the Monte Carlo algorithm was used to predict stock prices in March 201
 The stock prices in March 2019 are predicted to be: 
 | AMZN    | GOOGL  |MSFT  |AAPL   |
 |:-------:| ------:|-----:|-------|
-| $1,504|$1,008|$89|$168|
+| $1,504  |$1,008  |$89   |$168   |
 
 Here are the actual stock prices in March 2019: 
 *Source: Yahoo Finance*
 | AMZN    | GOOGL  |MSFT  |AAPL   |
 |:-------:| ------:|-----:|-------|
-| $1,671|$1,148|$112|$174|
+| $1,671  |$1,148  |$112  |$174   |
 
 
 
