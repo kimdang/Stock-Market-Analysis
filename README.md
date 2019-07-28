@@ -6,6 +6,7 @@ This analysis will focus on the stock of four major tech companies: Amazon, Micr
 ![alt text](https://stockmarketanalysis.s3.amazonaws.com/stock_Microsoft.png)
 ![alt text](https://stockmarketanalysis.s3.amazonaws.com/stock_Apple.png)
 ![alt text](https://stockmarketanalysis.s3.amazonaws.com/stock_Google.png)
+
 ---
 #### Performance Analysis 
 
@@ -54,14 +55,16 @@ Finally, the Monte Carlo algorithm was used to predict stock prices in March 201
 ![alt text](https://stockmarketanalysis.s3.amazonaws.com/montecarlo_AAPL.png)
 
 The stock prices in March 2019 are predicted to be: 
+
 | AMZN    | GOOGL  |MSFT  |AAPL   |
-|:-------:| ------:|-----:|-------|
+|-------:| ------:|-----:|-------:|
 | $1,504  |$1,008  |$89   |$168   |
 
 Here are the actual stock prices in March 2019: 
 *Source: Yahoo Finance*
+
 | AMZN    | GOOGL  |MSFT  |AAPL   |
-|:-------:| ------:|-----:|-------|
+|-------:| ------:|-----:|-------:|
 | $1,671  |$1,148  |$112  |$174   |
 
 
